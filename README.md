@@ -1,0 +1,2 @@
+# gitcmdpratice
+praticing cmd stuff
